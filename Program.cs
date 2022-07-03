@@ -29,6 +29,8 @@ namespace testgit
             app.MapRazorPages();
 
             app.Run();
+
         }
+
     }
 }
